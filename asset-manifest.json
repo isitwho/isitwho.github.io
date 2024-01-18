@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.5481c38a.css",
-    "main.js": "/static/js/main.c1722de7.js",
+    "main.css": "/static/css/main.4933ba54.css",
+    "main.js": "/static/js/main.9be63d70.js",
     "static/media/Pretendard-Medium.ttf": "/static/media/Pretendard-Medium.7f0e62f904e2bce0dbfb.ttf",
+    "static/media/penguin_profile_icon.png": "/static/media/penguin_profile_icon.acd0664ce6ae80f2da60.png",
     "static/media/icn_request_small.svg": "/static/media/icn_request_small.50c3413f4f5effb176c2601d66d033a5.svg",
     "static/media/icn_summary_small.svg": "/static/media/icn_summary_small.f7ce3d7e3c65c083534188fa653e2add.svg",
     "static/media/send-paper-plane-angle-square.svg": "/static/media/send-paper-plane-angle-square.1812aa4d99d07583ad11ce44770dcb96.svg",
@@ -10,11 +11,11 @@
     "static/media/Folder, Search.svg": "/static/media/Folder, Search.367dd18aeac841e39c9d0d8c420ab108.svg",
     "index.html": "/index.html",
     "static/media/Code, Search.svg": "/static/media/Code, Search.2d4634a98104c9e87993421b229efdab.svg",
-    "main.5481c38a.css.map": "/static/css/main.5481c38a.css.map",
-    "main.c1722de7.js.map": "/static/js/main.c1722de7.js.map"
+    "main.4933ba54.css.map": "/static/css/main.4933ba54.css.map",
+    "main.9be63d70.js.map": "/static/js/main.9be63d70.js.map"
   },
   "entrypoints": [
-    "static/css/main.5481c38a.css",
-    "static/js/main.c1722de7.js"
+    "static/css/main.4933ba54.css",
+    "static/js/main.9be63d70.js"
   ]
 }
